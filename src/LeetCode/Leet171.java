@@ -1,5 +1,7 @@
 package LeetCode;
 
+import java.util.Scanner;
+
 public class Leet171 {
     public static void main(String...args){
         String str="zy".toUpperCase();
