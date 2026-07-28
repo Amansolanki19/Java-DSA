@@ -150,6 +150,3 @@ git push origin feature-name
 
 If you found this repository helpful, consider giving it a **⭐ Star** on GitHub.
 
-## 📄 License
-
-This project is licensed under the MIT License.
